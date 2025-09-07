@@ -13,49 +13,78 @@
 - ✨ Let's build something AI-powered together!
 
 ---
-
 ## 🧠 Tech Stack
 
-### 📊 Data Science & Python Ecosystem  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="60" alt="Python" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="Pandas" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="NumPy" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60" alt="Matplotlib" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="60" alt="Seaborn"/>
-</p>
-<p align="left">
-  Python &nbsp;&nbsp;&nbsp;&nbsp; Pandas &nbsp;&nbsp;&nbsp;&nbsp; NumPy &nbsp;&nbsp;&nbsp;&nbsp; Matplotlib &nbsp;&nbsp;&nbsp;&nbsp; Seaborn
-</p>
+<!-- Row 1 -->
+<div align="center">
 
-### 🤖 Machine Learning & Deep Learning  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="TensorFlow" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" alt="Scikit-learn" />
-</p>
-<p align="left">
-  TensorFlow &nbsp;&nbsp;&nbsp;&nbsp; Scikit-learn
-</p>
+<table>
+<tr>
+  <!-- First box -->
+  <td align="center" width="400px" valign="top">
+    <h3>📊 Data Science & Python Ecosystem</h3>
+    <p>
+      <img src="https://skillicons.dev/icons?i=python" height="50" alt="Python" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="Pandas" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="NumPy" />&nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50" alt="Matplotlib" />&nbsp;
+      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="50" alt="Seaborn" />
+    </p>
+    <p><strong>Python &nbsp; Pandas &nbsp; NumPy &nbsp; Matplotlib &nbsp; Seaborn</strong></p>
+  </td>
 
-### 🧠 LangChain & Generative AI  
-<p align="left">
-  <img src="https://cas-bridge.xethub.hf.co/xet-bridge-us/63d3eec885118edc0439bd98/b5b6c9df87c8c406e1f861d53537050e7f0ed7aaee4f7768fe9087ee7db54992?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20250907%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250907T114959Z&X-Amz-Expires=3600&X-Amz-Signature=1956605db6ad3910ae02a7a3e8d9fc4288f87441db54064bb0a9c0df7f364226&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=public&response-content-disposition=inline%3B+filename*%3DUTF-8%27%27hf-logo.svg%3B+filename%3D%22hf-logo.svg%22%3B&response-content-type=image%2Fsvg%2Bxml&x-id=GetObject&Expires=1757249399&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc1NzI0OTM5OX19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82M2QzZWVjODg1MTE4ZWRjMDQzOWJkOTgvYjViNmM5ZGY4N2M4YzQwNmUxZjg2MWQ1MzUzNzA1MGU3ZjBlZDdhYWVlNGY3NzY4ZmU5MDg3ZWU3ZGI1NDk5MioifV19&Signature=tXCUMNIaAk7AtxL-DgoyvUXxgzOdpNnTcvPjtDdFqtHzCXhXjQpH5Mbzz5%7EqrqehFB9X8YKxBIFlUZEeiT1vjFABW1p17EQMAbKYBwcLsgzRgDo-TQLyDvdLnX-32bm2MOcVqwLqYySLsmKkzZfOwXFDO-tiwPn0ilCu1CHKIQLyP-7D3r5qmqA%7Eb3JXeKYbP2bTZjEoGTSSNIrpGiASnARzK1ZMGhe1j5Mj388nl-ULSC3UhW83sNFq%7ERSxlugDHb9W-sHxmmn1MdBheQCoYBf-PafDnkk91SpAKmbQkxqcQ8UH4goG6nM9dZvNtF5uLFbBWKJWFba-zqakTN2sLg__&Key-Pair-Id=K2L8F4GPSG1IFC" height="60" alt="Hugging Face" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white" height="40" alt="LangChain" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/light/ollama.png" height="60" alt="Ollama" />
-</p>
-<p align="left">
-  Hugging Face &nbsp;&nbsp;&nbsp;&nbsp; LangChain &nbsp;&nbsp;&nbsp;&nbsp; Ollama
-</p>
+  <!-- Gap between boxes -->
+  <td width="40px"></td>
 
-### 📈 Business Intelligence Tools & Statistics  
-<p align="left">
-  <img src="https://img.icons8.com/color/480/power-bi.png" height="60" alt="Power BI" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" height="60" alt="Excel" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.icons8.com/ios-filled/50/000000/statistics.png" height="60" alt="Statistics" />
-</p>
-<p align="left">
-  Power BI &nbsp;&nbsp;&nbsp;&nbsp; Excel &nbsp;&nbsp;&nbsp;&nbsp; Statistics
-</p>
+  <!-- Second box -->
+  <td align="center" width="400px" valign="top">
+    <h3>🤖 Machine Learning & Deep Learning</h3>
+    <p>
+      <img src="https://skillicons.dev/icons?i=tensorflow" height="50" alt="TensorFlow" />&nbsp;
+      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="50" alt="Scikit-learn" />
+    </p>
+    <p><strong>TensorFlow &nbsp; Scikit-learn</strong></p>
+  </td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- Row 2 -->
+<div align="center">
+
+<table>
+<tr>
+  <!-- Third box -->
+  <td align="center" width="400px" valign="top">
+    <h3>🧠 LangChain & Generative AI</h3>
+    <p>
+      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="50" alt="Hugging Face" />&nbsp;
+      <img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge&logo=chainlink&logoColor=white" height="40" alt="LangChain" />&nbsp;
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/1.64.0/files/light/ollama.png" height="50" alt="Ollama" />
+    </p>
+    <p><strong>Hugging Face &nbsp; LangChain &nbsp; Ollama</strong></p>
+  </td>
+
+  <!-- Gap between boxes -->
+  <td width="40px"></td>
+
+  <!-- Fourth box -->
+  <td align="center" width="400px" valign="top">
+    <h3>📈 BI Tools & Statistics</h3>
+    <p>
+      <img src="https://img.icons8.com/color/480/power-bi.png" height="50" alt="Power BI" />&nbsp;
+      <img src="https://img.icons8.com/color/480/microsoft-excel-2019--v1.png" height="50" alt="Excel" />&nbsp;
+      <img src="https://img.icons8.com/ios-filled/50/000000/statistics.png" height="50" alt="Statistics" />
+    </p>
+    <p><strong>Power BI &nbsp; Excel &nbsp; Statistics</strong></p>
+  </td>
+</tr>
+</table>
+
+</div>
 
 ---
 
